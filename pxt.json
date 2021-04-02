@@ -1,6 +1,6 @@
 {
     "name": "tutor04",
-    "description": "",
+    "description": "Test tutoraufruf",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -10,7 +10,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "dlpl-multibox/README.md"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
