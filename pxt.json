@@ -10,7 +10,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "github:baa-mb/dlpl-multibox/README.md"
+        "baa-mb/dlpl-multibox/README.md"
     ],
     "testFiles": [
         "test.ts"
