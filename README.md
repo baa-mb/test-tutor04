@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://baa-mb.github.io/test-tutor04/](https://baa-mb.github.io/test-tutor04/) öffnen
+> Diese Seite bei [https://baa-mb.github.io/test-tutor04/](https://baa-mb.github.io/dlpl-multibox/README.md) öffnen
 
 ## Als Erweiterung verwenden
 
